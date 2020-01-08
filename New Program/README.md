@@ -78,6 +78,7 @@ Ketik `sudo apt-get install git`
 <td></td>
 </tr>
 </table>
+test
 
 | Kolom pertama | kolom kedua | kolom ketiga |
 | -------------: | :-----------: | :------------ |
