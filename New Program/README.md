@@ -80,12 +80,12 @@ Ketik `sudo apt-get install git`
 </table>
 
 | Kolom pertama | kolom kedua | kolom ketiga |
-| -------------: | :-----------: | :------------ |
-| lorem ipsum   | dolor       | sit amet     |
-| lorem ipsum   | dolor       | sit amet     |
-| lorem ipsum   | dolor       | sit amet     |
-
-
+| ------------: | :---------: | :----------- |
+|   lorem ipsum |    dolor    | sit amet     |
+|   lorem ipsum |    dolor    | sit amet     |
+|   lorem ipsum |    dolor    | sit amet     |
+|   lorem ipsum |    dolor    | sit amet     |
+fbhbh
 
 
 Quote
